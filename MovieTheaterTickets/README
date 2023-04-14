@@ -1,0 +1,5 @@
+Write a program that can be used by a small theater to sell tickets for performances.
+The theater's auditorium has 15 rows of seats with 20 seats in each row. The program
+should have a function to display a screen which shows what seats are available and taken.
+Taken seats are represented by a # and available are represented by a *. Each row should
+have a different ticket price which should be read from an input file called "prices.txt".
