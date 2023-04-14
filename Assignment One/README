@@ -1,0 +1,6 @@
+Write a computer program which asks a person for the following information about them and
+then computes number of calories they are burning each day:
+1)	Person’s weight in pounds
+2)	Person’s height in feet
+3)	Person’s age in years on their last birthday
+4)	Activity index factor
