@@ -1,0 +1,3 @@
+Write a program that accepts an array of integers and an integer that indicates the
+number of elements in the array. Create a function that determines the median of
+the array and return the value as a double. Use pointer notation. 
